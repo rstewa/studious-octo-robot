@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.rstewa35.studiousoctorobot.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.rstewa35.studiousoctorobot.MyBundle
 
 class MyApplicationService {
 
